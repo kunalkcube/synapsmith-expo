@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "expo-api-routes": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/expo-api-routes/SKILL.md",
+      "computedHash": "fdbed647df0b7882d3ea407ac08aa85df5c8abb945fe2879ce16293737b39ad3"
+    },
+    "use-dom": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/expo/skills/use-dom/SKILL.md",
+      "computedHash": "690cda638c59e45661095e6e9acb12141b0a7873bec1fc4a368ef51657d57336"
+    }
+  }
+}
